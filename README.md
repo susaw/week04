@@ -14,8 +14,9 @@ See [Week03 Reference and Resources](https://github.com/ICPDesignCode/week03#int
   * [CSS Validator](http://jigsaw.w3.org/css-validator/)  
 * Web Typography  
   * [Google Fonts we used in class](https://www.google.com/fonts#UsePlace:use/Collection:Playfair+Display:400,400italic,700,700italic,900,900italic|Playfair+Display+SC:400,400italic,700,700italic,900,900italic|Work+Sans:400,100,200,300,500,600,700,800,900)
+  * [Font Stacks](http://www.smashingmagazine.com/2009/09/complete-guide-to-css-font-stacks/)
 * [The Box Model](http://www.w3.org/TR/CSS21/box.html)  
-* Block vs. Inline Element  
+* Block vs. Inline Elements  
 * [Margin Collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)  
 * Layouts: Intro to Floats
   * [Understanding Floats](https://css-tricks.com/all-about-floats/)
