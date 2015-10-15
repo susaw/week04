@@ -37,7 +37,7 @@ header h3 {
   text-transform: uppercase;
   padding: 218px 0 36px 0;
 }
-section p {
+.program-info p {
   font-family: 'Playfair Display', Georgia, serif;
   font-style: italic;
   font-size: 34px;
@@ -45,7 +45,7 @@ section p {
   width: 620px;
   margin: 60px auto;
 }
-section abbr {
+.program-info abbr {
   font-family: 'Playfair Display SC', serif;
   font-style: normal;
 }
@@ -104,9 +104,9 @@ address h3 {
 .hero {
   background: transparent url(../images/tile.gif) repeat;
 }
-.secondary {
+.program-info {
   background-color: #f33;
-  padding: 60px 10px;
+  padding: 60px 0;
 }
 header {
   height: 600px;
