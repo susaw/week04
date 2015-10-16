@@ -11,12 +11,14 @@ See [Week03 Reference and Resources](https://github.com/ICPDesignCode/week03#int
     * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
       * [Firebug extension](https://addons.mozilla.org/en-US/firefox/addon/firebug/?src=cb-dl-mostpopular)
     * [Safari Web Inspector](https://developer.apple.com/safari/tools/); [enabling Safari dev tools](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html#//apple_ref/doc/uid/TP40007874-CH2-SW2)
+  * [Browsershots.org](http://browsershots.org)
 * Cascading Style Sheets (CSS)  
   * [W3Schools CSS Reference](http://www.w3schools.com/css/default.asp)  
   * [CSS Validator](http://jigsaw.w3.org/css-validator/)  
 * Web Typography  
   * [Google Fonts we used in class](https://www.google.com/fonts#UsePlace:use/Collection:Playfair+Display:400,400italic,700,700italic,900,900italic|Playfair+Display+SC:400,400italic,700,700italic,900,900italic|Work+Sans:400,100,200,300,500,600,700,800,900)
-  * [Font Stacks](http://www.smashingmagazine.com/2009/09/complete-guide-to-css-font-stacks/)
+  * [Font Stacks](http://www.sitepoint.com/eight-definitive-font-stacks/)
+  * [cssfontstack.com](http://www.cssfontstack.com)
 * [The Box Model](http://www.w3.org/TR/CSS21/box.html)  
 * Block vs. Inline Elements  
 * [Margin Collapse](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing)  
