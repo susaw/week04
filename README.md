@@ -8,6 +8,8 @@ See [Week03 Reference and Resources](https://github.com/ICPDesignCode/week03#int
 * [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) (DOM)  
   * Browser-based developer tools  
     * [Chrome Dev Tools](https://developers.google.com/web/tools/setup/workspace/setup-devtools)  
+    * [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
+      * [Firebug extension](https://addons.mozilla.org/en-US/firefox/addon/firebug/?src=cb-dl-mostpopular)
     * [Safari Web Inspector](https://developer.apple.com/safari/tools/); [enabling Safari dev tools](https://developer.apple.com/library/safari/documentation/AppleApplications/Conceptual/Safari_Developer_Guide/GettingStarted/GettingStarted.html#//apple_ref/doc/uid/TP40007874-CH2-SW2)
 * Cascading Style Sheets (CSS)  
   * [W3Schools CSS Reference](http://www.w3schools.com/css/default.asp)  
